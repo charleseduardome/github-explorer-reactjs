@@ -2,7 +2,16 @@
 
 > Project developed to perform searches in github repositories and return your information.
 
-![](https://github.com/charleseduardome/github-explorer-reactjs/blob/master/src/assets/README.png?w250)
+
+
+![](https://github.com/charleseduardome/github-explorer-reactjs/blob/master/src/assets/README.png?w=350)
+
+## Used
+
+ReactJs
+Typecript
+Axios
+Styled-components
 
 ## Getting started
 
