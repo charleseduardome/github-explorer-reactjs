@@ -8,10 +8,10 @@
 
 ## Used
 
-ReactJs
-Typecript
-Axios
-Styled-components
+* ReactJs
+* Typescript
+* Axios
+* Styled-components
 
 ## Getting started
 
