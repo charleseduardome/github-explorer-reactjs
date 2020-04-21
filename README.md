@@ -8,7 +8,7 @@
 
 1º - Clone this repository;
 
-2º - Run fot install dependencies;
+2º - Run for install dependencies;
 
 ```sh
 yarn
