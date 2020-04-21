@@ -2,16 +2,16 @@
 
 > Project developed to perform searches in github repositories and return your information.
 
-
+[Live demo](https://awesome-khorana-9d8f9f.netlify.app/)
 
 ![](https://github.com/charleseduardome/github-explorer-reactjs/blob/master/src/assets/README.png?w=350)
 
 ## Used
 
-* ReactJs
-* Typescript
-* Axios
-* Styled-components
+- ReactJs
+- Typescript
+- Axios
+- Styled-components
 
 ## Getting started
 
