@@ -2,7 +2,7 @@
 
 > Project developed to perform searches in github repositories and return your information.
 
-![](/src/assets/READEME.png)
+![](https://github.com/charleseduardome/github-explorer-reactjs/blob/master/src/assets/README.png?w250)
 
 ## Getting started
 
