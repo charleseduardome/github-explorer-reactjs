@@ -4,7 +4,7 @@
 
 [Live demo](https://awesome-khorana-9d8f9f.netlify.app/)
 
-![](https://github.com/charleseduardome/github-explorer-reactjs/blob/master/src/assets/README.png?w=350)
+![](https://github.com/charleseduardome/github-explorer-reactjs/src/assets/README.png?w=350)
 
 ## Used
 
